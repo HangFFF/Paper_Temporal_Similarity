@@ -1,1 +1,2 @@
-
+# Introduction
+# The database contains 35 datasets and the datasets are belong to five different topic contents. Every topic content have 7 datasets. Then we use five pairs of topic content and time keywords to search the database. To quantitatively evaluate the sorting methods, we create a data retrieval and ranking benchmark—Geoscientific Data Retrieval and Ranking Dataset (GDRRD). We divide the 35 datasets into 5 groups and each group of datasets has the same topic content. 
